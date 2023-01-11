@@ -1,3 +1,3 @@
-import { hello } from "..";
+import { hello } from '..';
 
 hello();
