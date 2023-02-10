@@ -3,3 +3,4 @@ export const hello = (): void => {
 };
 
 // TODO ストーリーブックにて確認できるように、ひとかたまりに格納する。scssの追加が必要かな
+// TODO gitの設定も必要
